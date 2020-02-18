@@ -170,25 +170,6 @@
         
         </ul>
 
-        <div class="subheading mb-3">My work ethic</div>
-        <ul class="fa-ul mb-0">
-          <li>
-            <i class="fa-li fa fa-check"></i>
-            Integrity</li>
-          <li>
-            <i class="fa-li fa fa-check"></i>
-            Emphasis on Quality of Work</li>
-          <li>
-            <i class="fa-li fa fa-check"></i>
-            Professionalism</li>
-          <li>
-            <i class="fa-li fa fa-check"></i>
-            Sense of Responsibility</li>
-            <li>
-              <i class="fa-li fa fa-check"></i>
-              Sense of Teamwork</li>
-          </ul>
-        
       </div>
     </section>
 
